@@ -1,0 +1,20 @@
+charset,Shift_JIS
+id,sea
+name,sea
+type,shell
+craftman,A›Rgerms
+craftmanw,A•s¥‹óŸƒ
+craftmanurl,http://airgermssss.weebly.com/
+seriko.use_self_alpha,1
+sakura.balloon.offsetx,0
+sakura.balloon.offsety,50
+readme,readme.txt
+menu.sidebar.bitmap.filename,menus.png
+menu.background.bitmap.filename,menu1.png
+menu.foreground.bitmap.filename,menu2.png
+menu.foreground.font.color.r,20
+menu.foreground.font.color.g,20
+menu.foreground.font.color.b,20
+menu.background.font.color.r,20
+menu.background.font.color.g,20
+menu.background.font.color.b,20

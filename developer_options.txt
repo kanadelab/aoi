@@ -1,0 +1,5 @@
+ghost/master/dic_neta.txt,nonar,noupdate
+ghost/master/satori_savebackup.txt,nonar,noupdate
+.git/,nonar,noupdate
+.gitignore,nonar,noupdate
+ghost/master/dic_EventTalk.txt,nonar,noupdate

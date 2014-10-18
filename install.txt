@@ -1,0 +1,5 @@
+charset,Shift_JIS
+type,ghost
+directory,aoi
+name,‚ ‚¨‚¢ƒŠƒ{ƒ“‚Ì‚ ‚¨‚¢‚³‚ñ
+refresh,0
