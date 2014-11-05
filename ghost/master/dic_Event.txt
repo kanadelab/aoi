@@ -70,7 +70,7 @@
 ＊OnShellChanged
 ：（１５）どうかしら？
 ＠getaistate
-（zen2han,（病み度））,（zen2han,（浮気度））,（zen2han,（好感度））（バイト値,1）病み度,浮気度,好感度（バイト値,1）0,0,0（バイト値,1）（zen2han,（最大病み度））,（zen2han,（最大浮気度））,（zen2han,100）
+（zen2han,（病み度））,（zen2han,（浮気度））,（zen2han,（好感度））（バイト値,1）病み度,不信度,好感度（バイト値,1）0,0,0（バイト値,1）（zen2han,（最大病み度））,（zen2han,（最大浮気度））,（zen2han,100）
 ＠aistatebutton.caption
 好感度などの確認(&I)
 ＊OnMinuteChange
