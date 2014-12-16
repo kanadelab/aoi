@@ -1,8 +1,10 @@
 ＊メインメニュー
-：（メインメニューの台詞）
-
+：\_l[0em,3em]φ
 \![*]\q[起きる,起きる切り替え]
-\![*]\q[閉じる,メニューを閉じる]
+\![*]\q[喋り頻度を変える,喋り頻度を変える]
+
+\![*]\q[閉じる,script:"\b[-1]"]
+\_l[0em,0em]（メインメニューの台詞）
 
 ＃＃＃インラインイベント
 ＠メインメニューの台詞
@@ -25,13 +27,12 @@
 
 （１６）さ、\w6仲良くしてくれるわね？
 ＊喋り頻度を変える
-：（０）･･････････････････
-
-\![*]\q[１分,OnSetTalkInterval,６０]
-\![*]\q[２分,OnSetTalkInterval,１２０]
-\![*]\q[３分,OnSetTalkInterval,１８０]
-\![*]\q[５分,OnSetTalkInterval,３００]
-\![*]\q[１０分,OnSetTalkInterval,６００]
-\![*]\q[喋らない,OnSetTalkInterval,０]
-
-\![*]\q[キャンセル,メニューを閉じる]
+：\_l[0em,2em]φ
+\![*]\q[１分おき,OnSetTalkInterval,６０]
+\![*]\q[２分おき,OnSetTalkInterval,１２０]
+\![*]\q[３分おき,OnSetTalkInterval,１８０]
+\![*]\q[５分おき,OnSetTalkInterval,３００]
+\![*]\q[１０分おき,OnSetTalkInterval,６００]
+\![*]\q[勝手に喋らない,OnSetTalkInterval,０]
+\![*]\q[キャンセル,script:"\b[-1]"]
+\_l[0em,0em]（０）･･････････････････
