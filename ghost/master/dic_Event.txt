@@ -28,7 +28,7 @@
 ：（１４）さようなら。\w9（Ｒ０）。\w9\w9
 もう二度と私達に関わらないことを祈るわ。
 ＊OnSurfaceRestore
-：（０）
+\![get,property,OnSurfaceRestoreAfter,currentghost.shelllist.current.name]
 ＊OnVanishSelecting
 ：（１２）（ユーザ名）もうここには来ない。\w9\w9
 そういうことかしら。
@@ -64,3 +64,13 @@
 好感度などの確認(&I)
 ＊OnMinuteChange
 ＄nop	（好感度増加）
+＊OnSurfaceRestoreAfter
+＄nop	（シェル性能チェック）
+＞スカートを戻す	（シェル名）==Happily ever after&&（サーフェス0）==200
+：（０）
+＊スカートを戻す
+：（７）満足･･･\w9かしら。
+＊スカートを戻す
+：（５）もういいかしら･･･
+＊スカートを戻す
+：（１６）はい、\w9おしまい。
