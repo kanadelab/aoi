@@ -27,18 +27,22 @@ surface0,1,2,3,4,5,6,7,8,9,11,12,13,14,15,16
 collision0,84,86,94,97,ear
 collision1,187,100,196,110,ear
 collision2,97,22,194,79,head
-collision3,10,110,86,237,Hair
-collision4,186,127,270,249,Hair
+collision3,10,110,86,237,hair
+collision4,186,127,270,249,hair
 collision5,61,22,91,77,bow
 collision6,201,45,235,104,bow
 collisionex7,skirt,polygon,87,235,114,253,148,257,176,236,197,265,156,283,136,290,71,263
 collisionex8,leg,polygon,101,277,135,286,170,281,172,303,99,303
 collision9,115,150,163,182,bust
+collision10,129,106,148,121,mouth
+collision11,106,124,136,144,shoulder
+collision12,153,127,179,147,shoulder
+collision13,111,185,162,217,body_middle
+collision14,97,217,173,250,body_bottom
+collision15,136,117,154,130,neck
+collision16,114,98,129,117,cheek
+collision17,148,102,161,117,cheek
 }
 
-surface.append0-20
-{
-collision10,129,106,148,121,mouth
-}
 
 
