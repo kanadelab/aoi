@@ -179,7 +179,7 @@ satolist.disable_list,1
 ＄すぐに触る終了タイマ	０
 ＞スカートの中つつかれ
 
-＊0pantiesつつかれ
+＊0pantiesなでられ
 ＄すぐに触る終了タイマ	０
 ＞スカートの中なでられ
 
@@ -270,3 +270,6 @@ satolist.disable_list,1
 ＊0mouthつつかれ
 ＄nop	（病み度減少）
 ＞口つつかれ
+
+＊0shoulderつつかれ
+＞話しかけメニュー
