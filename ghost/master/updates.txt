@@ -1,7 +1,7 @@
 file,delete.txtd41d8cd98f00b204e9800998ecf8427esize=0
 file,developer_options.txt409a2e58ff9824d0db38ba006122cc14size=218
 file,install.txt7baabef28b3e4deb198fdbabd0f44905size=88
-file,readme.txtb1ac21ca73ee6ac14f94e46577a16103size=1176
+file,readme.txtbcb7d19e230fa8a86e8ea26afa67c353size=1398
 file,ghost/master/descript.txt6c01df2e32ff2fefeeadbd8c14c07e41size=643
 file,ghost/master/dic_Boot.txt0afafe66bb238b54c380a7347f475704size=4681
 file,ghost/master/dic_CallBootEnd.txt78d6f90e8fad1c3e8deb7ef3f5ec52f6size=1119
