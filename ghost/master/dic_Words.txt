@@ -42,3 +42,11 @@ satolist.descript,単語の設定
 ？？？
 
 ＃未定、という問題が発生している
+＠quitbutton.caption
+帰る　　(すべてのゴーストを終了)
+＠closebutton.caption
+帰る　　(このゴーストを終了)
+＠帰る
+（終了タイプ）!=泊まる
+＠泊まる
+（終了タイプ）==泊まる
