@@ -50,3 +50,8 @@ satolist.descript,単語の設定
 （終了タイプ）!=泊まる
 ＠泊まる
 （終了タイプ）==泊まる
+＊sakura.portalsites
+作者ブログ（更新履歴など）
+http://ukananachi.blog98.fc2.com/
+＠portalrootbutton.caption
+このゴースト関連のリンク(&P)
