@@ -3,7 +3,7 @@ name,‚ ‚¨‚¢ƒŠƒ{ƒ“‚Ì‚ ‚¨‚¢‚³‚ñ
 type,ghost
 craftman,nanachi
 craftmanw,‚È‚È‚Á‚¿
-craftmanurl,http://ukananachi.blog98.fc2.com/
+craftmanurl,http://nanachi.sakura.ne.jp/index.html
 readme,readme.txt
 sakura.name,‚ ‚¨‚¢‚³‚ñ
 sakura.seriko.defaultsurface,0
