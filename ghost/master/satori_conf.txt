@@ -11,3 +11,4 @@
 DŠ´“x	100
 —SAORI
 zen2han,ssu.dll,zen2han
+choice,ssu.dll,choice
