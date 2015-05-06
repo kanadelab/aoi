@@ -39,9 +39,7 @@ satolist.descript,単語の設定
 ちゅー
 すきすき
 ＠ゴーストの誕生日
-？？？
-
-＃未定、という問題が発生している
+６月１０日
 ＠quitbutton.caption
 帰る　　(すべてのゴーストを終了)
 ＠closebutton.caption
