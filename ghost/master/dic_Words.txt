@@ -29,7 +29,7 @@ satolist.descript,単語の設定
 （when,（病み度）>=20,1,0）
 
 ＠でれでれやみ
-（でれでれ）||（でれやみ）
+（でれでれ）&&（くっつかせでる）==無効||（でれやみ）
 
 ＠やみやみでれ
 （やみやみ）||（でれやみ）
@@ -56,3 +56,5 @@ http://nanachi.sakura.ne.jp/index.html
 http://ukananachi.blog98.fc2.com/
 ＠portalrootbutton.caption
 このゴースト関連のリンク(&P)
+＠でれでれでれ
+（くっついてる）==有効
