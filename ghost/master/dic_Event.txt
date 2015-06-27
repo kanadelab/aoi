@@ -74,3 +74,10 @@
 ：（５）もういいかしら･･･
 ＊スカートを戻す
 ：（１６）はい、\w9おしまい。
+＊hwnd
+（ssu,split,（Ｒ０）,（ssu,sprintf,%c,1））
+＄本体ハンドル0＝（Ｓ０）
+（ssu,split,（Ｒ１）,（ssu,sprintf,%c,1））
+＄バルーンハンドル0＝（Ｓ０）
+＊OnStartParticle
+＄nop	（when,（ハート表示設定）==有効,（load_saori,particle,particle.dll,window））（particle,（ssu,zen2han,（本体ハンドル0））,（ssu,zen2han,（バルーンハンドル0）））

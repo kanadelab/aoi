@@ -10,6 +10,8 @@
 ＄イベント年月日	なし
 ＄好感度	100
 ＄くっついてる	無効
+＄ハート表示設定	無効
 ＠SAORI
 zen2han,ssu.dll,zen2han
 choice,ssu.dll,choice
+ssu,ssu.dll
