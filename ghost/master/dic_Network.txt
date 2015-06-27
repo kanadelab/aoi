@@ -3,6 +3,7 @@ satolist.descript,ねとわく辞書
 ＊OnUpdateComplete
 ＞ねとわく更新（Ｒ０）
 ＊ねとわく更新changed
+＄スクリプトの一番頭	\![embed,OnStartParticle]
 ：（１５）はい、\w7おしまい。
 ＊ねとわく更新none
 ：（２）なにもなかったみたい。
