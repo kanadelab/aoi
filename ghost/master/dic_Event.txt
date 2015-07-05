@@ -17,12 +17,14 @@
 ＞他のゴーストが起動
 
 ＊辞書フォルダ設定
+＄nop	＄スクリプトの一番頭	\![embed,OnStartParticle]
 ＞辞書設定（ユーザ状態）
 
 ＊辞書設定普通
 ＄辞書フォルダ	.,normal
 
 ＊辞書設定睡眠
+＄nop	＄スクリプトの一番頭	\![embed,OnStartParticle]
 ＄辞書フォルダ	.,sleep
 ＊OnOtherGhostVanish
 ：（１４）さようなら。\w9（Ｒ０）。\w9\w9
