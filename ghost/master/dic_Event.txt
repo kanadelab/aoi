@@ -17,7 +17,7 @@
 ＞他のゴーストが起動
 
 ＊辞書フォルダ設定
-＄nop	＄スクリプトの一番頭	\![embed,OnStartParticle]
+＄スクリプトの一番頭	\![embed,OnStartParticle]
 ＞辞書設定（ユーザ状態）
 
 ＊辞書設定普通
