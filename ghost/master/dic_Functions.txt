@@ -162,3 +162,26 @@
 エラーテスト０
 ＠たくし上げ維持
 （when,（たくし上げ中）,（２００）,（（Ａ０）））
+
+
+＊さとりすとにより無効化_OnFileDropEx
+＄byte1	（バイト値,1）
+＄cnt	（vncall,split,Ｒ０,byte1）
+＞フォントファイル設定	（cnt）==1
+
+＊フォントファイル設定
+：\![open,file,ghost/master/font_copy.bat,"（Ｒ０）"]\![raise,OnFontSetuped]
+
+＊OnFontSetuped
+＄ドロップフォント	1
+：（０）■フォントを設定しました。
+(一瞬黒い画面が出ましたが、きにしないでください。)
+
+＠ドロップフォント設定	（ドロップフォント）
+\f[name,font]
+
+＠ドロップフォント設定	!（ドロップフォント）
+\f[name,defalut]
+
+＊さとりすとにより無効化_OnTranslate
+：（ドロップフォント設定）\f[height,（zen2han,（ドロップフォントサイズ））%]（Ｒ０）

@@ -11,6 +11,8 @@
 ＄好感度	100
 ＄くっついてる	無効
 ＄ハート表示設定	無効
+＄ドロップフォント	0
+＄ドロップフォントサイズ	100
 ＠SAORI
 zen2han,ssu.dll,zen2han
 choice,ssu.dll,choice
