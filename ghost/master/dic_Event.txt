@@ -56,9 +56,9 @@
 
 ＊OnUserInput
 ＞（Ｒ０）
-＊OnShellChanged
+＊シェル変更
 ：（２）これでどうかしら。
-＊OnShellChanged
+＊シェル変更
 ：（１５）どうかしら？
 ＠getaistate
 （zen2han,（病み度））,（zen2han,（浮気度））,（zen2han,（好感度））（バイト値,1）病み度,不信度,好感度（バイト値,1）0,0,0（バイト値,1）（zen2han,（最大病み度））,（zen2han,（最大浮気度））,（zen2han,100）
@@ -69,6 +69,7 @@
 ＊OnSurfaceRestoreAfter
 ＄nop	（シェル性能チェック）
 ＞スカートを戻す	（シェル名）==Happily ever after&&（サーフェス0）==200
+＞スカートを戻す_たくし上げモード終了	（シェル名）==あおいやみ&&（たくし上げモード）
 ：（when,（くっついてる）==有効,（１４）,（０））
 ＊スカートを戻す
 ：（７）満足･･･\w9かしら。
@@ -83,3 +84,12 @@
 ＄バルーンハンドル0＝（Ｓ０）
 ＊OnStartParticle
 ＄nop	（when,（ハート表示設定）==有効,（load_saori,particle,particle.dll,window））（particle,（ssu,zen2han,（本体ハンドル0））,（ssu,zen2han,（バルーンハンドル0）））
+＊OnShellChanged
+\![get,property,OnShellChangedAfter,currentghost.shelllist.current.name]
+＊OnShellChangedAfter
+＄nop	（シェル性能チェック）
+＄たくし上げモード	0
+＞シェル変更
+＊スカートを戻す_たくし上げモード終了
+＄たくし上げモード	0
+＞スカートを戻す

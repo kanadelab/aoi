@@ -13,6 +13,7 @@
 ＄ハート表示設定	無効
 ＄ドロップフォント	0
 ＄ドロップフォントサイズ	100
+＄たくし上げモード	0
 ＠SAORI
 zen2han,ssu.dll,zen2han
 choice,ssu.dll,choice
