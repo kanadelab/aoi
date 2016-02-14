@@ -5,3 +5,4 @@ ghost/master/satori_savebackup.txt,nonar,noupdate
 ghost/master/dic_EventTalk.txt,nonar,noupdate
 shell/h_e_a/,nonar,noupdate
 shell/aoiyami/,nonar,noupdate
+shell/bitter_sweet/,nonar,noupdate

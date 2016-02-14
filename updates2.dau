@@ -1,5 +1,5 @@
 delete.txtd41d8cd98f00b204e9800998ecf8427esize=0
-developer_options.txt0fa87df39fd6e6fd14541724a1539c40size=249
+developer_options.txt0fc682c0c9896827c8c84fad924ca0dbsize=285
 install.txt7baabef28b3e4deb198fdbabd0f44905size=88
 license.txt5ba4f924f244e98fb8415a0782168b48size=5178
 readme.txt0cc4ffcd14903c11ea6b7e0f2dbbb548size=1286
@@ -25,7 +25,7 @@ ghost/master/normal/dic_BootEnd.txt16cbece1d05941954f1ab7217b4a96f2size=5004
 ghost/master/normal/dic_CallResponce.txt26e9354d807ad7d90aa42b02f4a4cf37size=7349
 ghost/master/normal/dic_Event.txt163b171b7a4b9259d68f8724c197c962size=514
 ghost/master/normal/dic_Menu.txta6dbc2318b78e7d11e0c3bc58e4bbd15size=5332
-ghost/master/normal/dic_Talk.txtf26bdf5d31ec1c3c71938aa74f005080size=28859
+ghost/master/normal/dic_Talk.txt52f81b0b1cc79e3e1a82ec86cf01f5a8size=29258
 ghost/master/normal/dic_Talk2.txtbf01f0b469748f61356090f46378a58fsize=7971
 ghost/master/sleep/dic_CallResponse.txtd162b9c67426398b9bb540112e8d05edsize=147
 ghost/master/sleep/dic_Event.txt8db0794403c0a8d60f560497fe5cfd6bsize=284
