@@ -34,7 +34,7 @@ satolist.descript,ねとわく辞書
 原因は「（Ｒ０）」。\w9
 この状態が長く続くようなら作者に連絡してあげてね。
 ＠homeurl
-https://raw.githubusercontent.com/kanadelab/aoi/master/
+http://nanachi.sakura.ne.jp/aoi/
 ＊OnUpdateFailure
 ：（２）エラー、\w9だそうよ。
 
