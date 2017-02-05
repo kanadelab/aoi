@@ -35,6 +35,6 @@ http://ukananachi.blog98.fc2.com/blog-entry-551.html
 license.txt　をご確認ください。
 
 ■GitHubについて
-このゴーストはGitHubを使って更新しています。
-ゴーストの更新に際してプルリクエストを頂けますと、取り込みを検討いたします。
+このゴーストは以前までGithubで更新していました。現在は不定期コミットです。
+トーク等追加して、プルリクエスト等くだされば取り込みを検討しますのでぜひ。
 https://github.com/kanadelab/aoi

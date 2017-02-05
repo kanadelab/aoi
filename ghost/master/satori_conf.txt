@@ -14,6 +14,7 @@
 ＄ドロップフォント	0
 ＄ドロップフォントサイズ	100
 ＄たくし上げモード	0
+＄強制サーフェス指定	0
 ＠SAORI
 zen2han,ssu.dll,zen2han
 choice,ssu.dll,choice
