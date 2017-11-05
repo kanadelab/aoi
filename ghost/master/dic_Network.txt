@@ -33,8 +33,6 @@ satolist.descript,ねとわく辞書
 
 原因は「（Ｒ０）」。\w9
 この状態が長く続くようなら作者に連絡してあげてね。
-＠homeurl
-http://nanachi.sakura.ne.jp/aoi/
 ＊OnUpdateFailure
 ：（２）エラー、\w9だそうよ。
 

@@ -4,6 +4,7 @@ type,ghost
 craftman,nanachi
 craftmanw,‚È‚È‚Á‚¿
 craftmanurl,http://nanachi.sakura.ne.jp/index.html
+homeurl,http://nanachi.sakura.ne.jp/aoi/
 readme,readme.txt
 sakura.name,‚ ‚¨‚¢‚³‚ñ
 sakura.seriko.defaultsurface,0
